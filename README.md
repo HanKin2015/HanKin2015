@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/HanKin2015">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=bettenW&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=HanKin2015&layout=compact" />
 </a>
