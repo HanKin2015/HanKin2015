@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm HanKin</h1>
 <h3 align="center">C/C++ Developer / USB Developer / Literary and Artistic Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seutao" alt="高贵冷艳健少" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HanKin2015" alt="高贵冷艳健少" /> </p>
 
 ### My Social Media 💬
 - 博客: [@高贵冷艳健少](https://hankin2015.github.io/)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Email: 1058198502@qq.com
 
 <a href="https://github.com/HanKin2015">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=bettenW&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=HanKin2015&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/HanKin2015">
