@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HanKin2015" alt="高贵冷艳健少" /> </p>
 
 ### My Social Media 💬
-- 博客: [@高贵冷艳健少](https://hankin2015.github.io/)
-- 学习笔记: [@gitbook](https://hankin2015.github.io/GitBook/)
+- blog: [@高贵冷艳健少](https://hankin2015.github.io/)
+- gitbook: [@学习笔记](https://hankin2015.github.io/GitBook/)
 - Gmail: hejian0616@gmail.com
 - QQ: 1058198502
 - Email: 1058198502@qq.com
@@ -33,3 +33,29 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=HanKin2015&layout=compact" />
 </a>
+
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif" width="30" /> 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!-- 👋 -->
+
+<img src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" width="30" /> I am HanKin2015 who is a developer from ChangSha, C++/C Python Golang. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ![](https://visitor-badge.glitch.me/badge?page_id=cosyer)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
+### Links 📌
+
+- blog: [@高贵冷艳健少](https://hankin2015.github.io/)
+- gitbook: [@学习笔记](https://hankin2015.github.io/GitBook/)
+- web: [@Han_Kin](https://blog.csdn.net/Han_kin)
+
+### Contacts 😄
+
+- Gmail: hejian0616@gmail.com
+- QQ: 1058198502
+- Email: 1058198502@qq.com
+
+### Stats 🌱
+
+<img src="https://github-readme-stats.vercel.app/api?username=HanKin2015&show_icons=true&hide_border=true&hide=contribs,prs" alt="stats" width="47%" align="left"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HanKin2015&theme=flat&column=3&margin-w=10&title=Stars,Commit,Issues" alt="trophy" width="48%" align="right"/>
