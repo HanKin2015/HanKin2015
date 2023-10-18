@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 - Email: 1058198502@qq.com
 
 <a href="https://github.com/HanKin2015">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=HanKin2015&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=HanKin2015&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/HanKin2015">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=HanKin2015&layout=compact" />
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=HanKin2015&layout=compact" />
 </a>
 
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif" width="30" /> 
